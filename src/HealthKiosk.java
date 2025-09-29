@@ -1,5 +1,7 @@
-public class Main {
+public class HealthKiosk {
     public static void main() {
+
+        
 
     }
 }
